@@ -2,7 +2,7 @@
 
 **A.I. Agent with Python** is an experimental project that demonstrates building an intelligent agent capable of performing tasks, processing natural language, and interacting with users. This project showcases Python-based AI logic, modular design, and simple automation workflows.
 
-Developed by **Deividas Strole**, Full-Stack Software Engineer, as a learning and portfolio project for exploring AI concepts in Python.
+Developed as a learning and portfolio project for exploring AI concepts in Python.
 
 ---
 
